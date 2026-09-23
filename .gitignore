@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Arduino / build
+build/
+*.hex
+*.elf
+
+# Data captures (uncomment if you keep large recordings out of git)
+# *.csv
+# *.wav
+# *.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
