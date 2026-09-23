@@ -163,7 +163,6 @@ The complete slide deck is in `docs/`, in both PowerPoint and PDF form. The indi
 - Eins Besmanos
 - Achyut Chebiyam
 - Jack Langhoff
-- Tanya Hemdev
 
 Course project for BioE 101 (Bioinstrumentation), UC Berkeley.
 
